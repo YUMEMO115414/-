@@ -1,0 +1,6 @@
+# 番茄钟桌面应用依赖
+# 核心依赖均为 Python 标准库 (tkinter, json, os, winsound, etc.)
+# 无需额外安装 pip 包即可运行
+
+# 可选：用于更好的桌面通知体验
+# plyer==2.1.0

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 配置 (包含本地统计数据)
+.pomodoro/
+
+# 虚拟环境
+venv/
+.env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 系统文件
+Thumbs.db
+Desktop.ini
